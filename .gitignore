@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# SQL Developer files
+*.jpr
+*.jws
+*.sdf
+
+# Temporary files
+*.tmp
+*.log
